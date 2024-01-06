@@ -113,8 +113,18 @@ nav a {
     align-items: center;
 }
 
+#topu {
+    padding: 30px 150px;
+}
+
 /* main */
 main {
     max-width: 1140px;
     margin: 0 auto;
+}
+
+.skill-container {
+    display: flex;
+    justify-content: space-around;
+
 }
