@@ -192,3 +192,7 @@ textarea {
     border-radius: 30px;
     border: 0;
 }
+
+.social-links {
+    margin-right: 24px;
+}
